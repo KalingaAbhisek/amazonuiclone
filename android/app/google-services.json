@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221730474192",
+    "project_id": "login-project-988fb",
+    "storage_bucket": "login-project-988fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221730474192:android:f08d675c293346431f76d5",
+        "android_client_info": {
+          "package_name": "com.kalinga.ecomstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221730474192-drkq9kpf9tk26ea4aouk7b5hsah3qku2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalinga.ecomstore",
+            "certificate_hash": "573f5a58385f81d26cb37e223a6aa6ff89047915"
+          }
+        },
+        {
+          "client_id": "221730474192-14tf47bnk18smkbv00083215de48dvu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KVl96BKHF_1y-MIQEBEtZIlaB1Oj-eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221730474192-14tf47bnk18smkbv00083215de48dvu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
